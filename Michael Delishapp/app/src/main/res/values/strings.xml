@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Michael Delishapp</string>
+    <string name="title_add">Add Recipes</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="addrecipes_name">Name of Recipe:</string>
+    <string name="addrecipes_description">Description of recipe:</string>
+    <string name="addrecipes_ingredients">Ingredients:</string>
+    <string name="addrecipes_instructions">Instructions:</string>
+    <string name="addrecipes_upload">Select Photo:</string>
+    <string name="addrecipes_addButton">Add Recipe</string>
+    <string name="addrecipes_hintName">Enter name here</string>
+    <string name="addrecipes_hintDescription">Enter description here</string>
+    <string name="addrecipes_hintIngredients">Enter ingredients here</string>
+    <string name="addrecipes_hintInstructions">Enter instructions here</string>
+    <string name="addrecipes_addPhotoButton">Add photo</string>
+    <string name="editrecipes_editPhotoButton">Edit photo</string>
+    <string name="editrecipes_editButton">Edit recipe</string>
+    <string name="backButton">Back to recipes</string>
+</resources>
