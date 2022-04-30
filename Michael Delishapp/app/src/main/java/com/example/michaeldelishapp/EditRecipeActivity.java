@@ -91,6 +91,7 @@ public class EditRecipeActivity extends AppCompatActivity {
                     imageString = bitmapToString(bitmapImage);
                 } else {
                     imageString = bitmapToString(bitmapImagePreviously);
+                    bitmapImage = bitmapImagePreviously;
                 }
                 int favouriteValue = recipe.getFavourite();
 
